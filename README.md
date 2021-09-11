@@ -8,7 +8,7 @@
 - 🌍🏅 I am currently sharing a little bit of my knowledge to the world through my Vblogs
 - 📫 How to find me :
   - [Beheance](https://www.behance.net/addispupi)
-  - :office: [LinkedIn](https://www.linkedin.com/in/addispupi/)
+  - [LinkedIn](https://www.linkedin.com/in/addispupi/)
   - [Instagram](https://www.instagram.com/addispupi/)
   - [Twitter](https://twitter.com/addispupi)
   - [Youtube](https://www.youtube.com/c/AIProgramming)
@@ -19,4 +19,3 @@
 
 My Recent Articles
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@addispupi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@addispupi/0" alt="Recent Article 0">
