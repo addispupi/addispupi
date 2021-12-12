@@ -1,11 +1,10 @@
-### Hi there, I'm Addis 👋
-
-- 🎭🎨 Visual Artist & Problem Solver
+### Hi there, I'm Addis a Software Engineer and Visual Artist 👋
+![](https://komarev.com/ghpvc/?username=addispupi)
 - 🌱💻 I’m currently learning Python
 - 🔭⏳ Obsessed with Space and Time
 - ❣️📚 Love Books
 - 🎮🕶️ Video Games are my Special Place
-- 🌍🏅 I am currently sharing a little bit of my knowledge to the world through my Vblogs
+- 🌍🏅 I am currently sharing a little bit of my knowledge to the world through my Vblogs [YouTube](https://www.youtube.com/channel/UCSucpjdwWnBYP3lkQVp8sZw)
 - 📫 How to find me :
   - [Beheance](https://www.behance.net/addispupi)
   - [LinkedIn](https://www.linkedin.com/in/addispupi/)
