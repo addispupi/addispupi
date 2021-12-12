@@ -4,7 +4,7 @@
 - 🎮🕶️ Video Games are my Special Place
 - 🌍🏅 I love sharing a little bit of my knowledge to the world through [AI Programming YouTube Channel](https://www.youtube.com/c/AIProgramming)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=addispupi-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=addispupi)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 How to find me :
   - [Beheance](https://www.behance.net/addispupi)
