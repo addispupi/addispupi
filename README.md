@@ -1,4 +1,4 @@
-### Hi there, I'm Addis 👋 a Software Engineer from Africa
+### Hi there, I'm Addis 👋 a Software Engineer
 ![](https://komarev.com/ghpvc/?username=addispupi)
 - 🌱💻 I’m currently working & learning
 - 🎮🕶️ Video Games are my Special Place
