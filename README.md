@@ -1,6 +1,6 @@
 ### Hi there, I'm Addis 👋 a Software Engineer
 ![](https://komarev.com/ghpvc/?username=addispupi)
-- 💻 I’m currently working at Gasha Digital Technology as a CEO& learning
+- 💻 I’m currently working at Gasha Digital Technology as a CEO
 - 🌱 I'm currently learning AI, ML & Web3
 - 🎮🕶️ Video Games are my Special Place
 - 🌍🏅 I love sharing a little bit of my knowledge to the world through [AI Programming YouTube Channel](https://www.youtube.com/c/AIProgramming)
