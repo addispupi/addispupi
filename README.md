@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning AI, ML & Web3
 - 🎮🕶️ Video Games are my Special Place
 - 🌍🏅 I love sharing a little bit of my knowledge to the world through [AI Programming YouTube Channel](https://www.youtube.com/c/AIProgramming)
-- 👯 I'm open to collaborate on Game Dev Web3 projects.
+- 👯 I'm open to collaborate on Game Dev & Web3 projects.
 - 📧 Mail me at addishaile [at] hotmail [dot] com.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=addispupi&theme=onedark&margin-w=6&column=4&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
